@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+  font-family: "Anton", sans-serif;
+  margin: 20px 0px 30px;
+}
+
+.print_r {
+  white-space: pre;
+  border: 1px dotted;
+  padding: 0.5em;
+  display: inline-block;
+  margin: 0 0.5em 0.5em 0;
+  color: #fb3d3d;
+  vertical-align: top;
+  max-width: 30%;
+  max-height: 400px;
+  overflow: auto;
+  box-sizing: border-box;
+  resize: both;
+}
+
+.wrap {
+  white-space: pre-line;
+}
+
+#pagination {
+  margin: 2em 0 3em;
+}
+
+.fab {
+  margin-right: 30px;
+  /* margin-bottom: 30px; */
+  margin-left: 50px;
+  color: black;
+}
